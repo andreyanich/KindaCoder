@@ -154,6 +154,12 @@ body {
   text-align: center;
 }
 
+.project-image2 {
+  margin: 0 0 24px;
+  text-align: center;
+  margin-top: 60px;
+}
+
 .projects p {
   margin: 0 0 24px;
 }
